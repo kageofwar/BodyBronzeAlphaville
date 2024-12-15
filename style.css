@@ -49,7 +49,6 @@ table {
 
 .container {
     background-color: black;
-    height: 100vh;
     display: flex;
     justify-content: center;
 	flex-direction: column;
@@ -59,5 +58,5 @@ table {
 .container_imagem{
     display: flex;
     justify-content: center;
-    width: 100vh;
+	height: 100vh;
 }
